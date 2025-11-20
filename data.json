@@ -1,0 +1,302 @@
+{
+  "Brasil": {
+    "população": 213421037,
+    "pib_per_capita": 10280,
+    "expectativa_vida": {
+      "geral": 64,
+      "homem": 65,
+      "mulher": 62
+    },
+    "forca_trabalho": 106790000,
+    "idade_aposentadoria": {
+      "geral": 64,
+      "homem": 65,
+      "mulher": 62
+    }
+  },
+  "Estados Unidos": {
+    "população": 340110988,
+    "pib_per_capita": 85810,
+    "expectativa_vida": {
+      "geral": 79,
+      "homem": 76,
+      "mulher": 81
+    },
+    "forca_trabalho": 174174000,
+    "idade_aposentadoria": {
+      "geral": 66,
+      "homem": 66,
+      "mulher": 66
+    }
+  },
+  "China": {
+    "população": 1408280000,
+    "pib_per_capita": 13303,
+    "expectativa_vida": {
+      "geral": 76,
+      "homem": 73,
+      "mulher": 79
+    },
+    "forca_trabalho": 773880000,
+    "idade_aposentadoria": {
+      "geral": 60,
+      "homem": 63,
+      "mulher": 57
+    }
+  },
+  "Índia": {
+    "população": 1417492000,
+    "pib_per_capita": 2697,
+    "expectativa_vida": {
+      "geral": 68,
+      "homem": 66,
+      "mulher": 70
+    },
+    "forca_trabalho": 607691000,
+    "idade_aposentadoria": {
+      "geral": 63,
+      "homem": 65,
+      "mulher": 60
+    }
+  },
+  "Japão": {
+    "população": 123210000,
+    "pib_per_capita": 32476,
+    "expectativa_vida": {
+      "geral": 84,
+      "homem": 81,
+      "mulher": 87
+    },
+    "forca_trabalho": 69382000,
+    "idade_aposentadoria": {
+      "geral": 63,
+      "homem": 64,
+      "mulher": 62
+    }
+  },
+  "Alemanha": {
+    "população": 83491249,
+    "pib_per_capita": 55800,
+    "expectativa_vida": {
+      "geral": 81,
+      "homem": 78,
+      "mulher": 84
+    },
+    "forca_trabalho": 43772000,
+    "idade_aposentadoria": {
+      "geral": 66,
+      "homem": 65,
+      "mulher": 67
+    }
+  },
+  "França": {
+    "população": 68723000,
+    "pib_per_capita": 46150,
+    "expectativa_vida": {
+      "geral": 84,
+      "homem": 81,
+      "mulher": 87
+    },
+    "forca_trabalho": 31725000,
+    "idade_aposentadoria": {
+      "geral": 66,
+      "homem": 65,
+      "mulher": 67
+    }
+  },
+  "Reino Unido": {
+    "população": 69281437,
+    "pib_per_capita": 52637,
+    "expectativa_vida": {
+      "geral": 81,
+      "homem": 78,
+      "mulher": 84
+    },
+    "forca_trabalho": 35359000,
+    "idade_aposentadoria": {
+      "geral": 66,
+      "homem": 66,
+      "mulher": 66
+    }
+  },
+  "Canadá": {
+    "população": 41651653,
+    "pib_per_capita": 54283,
+    "expectativa_vida": {
+      "geral": 82,
+      "homem": 79,
+      "mulher": 85
+    },
+    "forca_trabalho": 22868000,
+    "idade_aposentadoria": {
+      "geral": 65,
+      "homem": 65,
+      "mulher": 65
+    }
+  },
+  "Austrália": {
+    "população": 27536874,
+    "pib_per_capita": 64408,
+    "expectativa_vida": {
+      "geral": 67,
+      "homem": 67,
+      "mulher": 67
+    },
+    "forca_trabalho": 14912000,
+    "idade_aposentadoria": {
+      "geral": 67,
+      "homem": 67,
+      "mulher": 67
+    }
+  },
+  "Rússia": {
+    "população": 146028325,
+    "pib_per_capita": 14889,
+    "expectativa_vida": {
+      "geral": 61,
+      "homem": 63,
+      "mulher": 58
+    },
+    "forca_trabalho": 72517000,
+    "idade_aposentadoria": {
+      "geral": 61,
+      "homem": 63,
+      "mulher": 58
+    }
+  },
+  "México": {
+    "população": 130575786,
+    "pib_per_capita": 14157,
+    "expectativa_vida": {
+      "geral": 65,
+      "homem": 65,
+      "mulher": 65
+    },
+    "forca_trabalho": 60959000,
+    "idade_aposentadoria": {
+      "geral": 65,
+      "homem": 65,
+      "mulher": 65
+    }
+  },
+  "Argentina": {
+    "população": 46387098,
+    "pib_per_capita": 13858,
+    "expectativa_vida": {
+      "geral": 63,
+      "homem": 65,
+      "mulher": 60
+    },
+    "forca_trabalho": 22286000,
+    "idade_aposentadoria": {
+      "geral": 63,
+      "homem": 65,
+      "mulher": 60
+    }
+  },
+  "África do Sul": {
+    "população": 63100945,
+    "pib_per_capita": 6253,
+    "expectativa_vida": {
+      "geral": 0,
+      "homem": 0,
+      "mulher": 0
+    },
+    "forca_trabalho": 27766000,
+    "idade_aposentadoria": {
+      "geral": 60,
+      "homem": 60,
+      "mulher": 60
+    }
+  },
+  "Nigéria": {
+    "população": 223800000,
+    "pib_per_capita": 807,
+    "expectativa_vida": {
+      "geral": 0,
+      "homem": 0,
+      "mulher": 0
+    },
+    "forca_trabalho": 113350000,
+    "idade_aposentadoria": {
+      "geral": 60,
+      "homem": 60,
+      "mulher": 60
+    }
+  },
+  "Egito": {
+    "população": 107271260,
+    "pib_per_capita": 3339,
+    "expectativa_vida": {
+      "geral": 60,
+      "homem": 60,
+      "mulher": 60
+    },
+    "forca_trabalho": 33749000,
+    "idade_aposentadoria": {
+      "geral": 60,
+      "homem": 60,
+      "mulher": 60
+    }
+  },
+  "Turquia": {
+    "população": 85664944,
+    "pib_per_capita": 15473,
+    "expectativa_vida": {
+      "geral": 59,
+      "homem": 60,
+      "mulher": 58
+    },
+    "forca_trabalho": 36081000,
+    "idade_aposentadoria": {
+      "geral": 59,
+      "homem": 60,
+      "mulher": 58
+    }
+  },
+  "Coreia do Sul": {
+    "população": 51159889,
+    "pib_per_capita": 33121,
+    "expectativa_vida": {
+      "geral": 80,
+      "homem": 77,
+      "mulher": 83
+    },
+    "forca_trabalho": 29713000,
+    "idade_aposentadoria": {
+      "geral": 60,
+      "homem": 60,
+      "mulher": 60
+    }
+  },
+  "Indonésia": {
+    "população": 284438782,
+    "pib_per_capita": 4925,
+    "expectativa_vida": {
+      "geral": 58,
+      "homem": 58,
+      "mulher": 58
+    },
+    "forca_trabalho": 143144000,
+    "idade_aposentadoria": {
+      "geral": 58,
+      "homem": 58,
+      "mulher": 58
+    }
+  },
+  "Suécia": {
+    "população": 10609460,
+    "pib_per_capita": 57723,
+    "expectativa_vida": {
+      "geral": 67,
+      "homem": 67,
+      "mulher": 67
+    },
+    "forca_trabalho": 5699000,
+    "idade_aposentadoria": {
+      "geral": 67,
+      "homem": 67,
+      "mulher": 67
+    }
+  }
+}
