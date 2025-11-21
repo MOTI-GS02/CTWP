@@ -1,0 +1,57 @@
+Grupo:
+Áurea Sardinha Carminato - RM563837
+Henrique Castro de Matos - RM564560
+Laura Tigre Amaral - RM565281
+
+Explicação das Funções:
+
+1. ler_json(caminho="data.json")
+   - Abre e lê o arquivo JSON que contém os dados dos países
+   - Retorna um dicionário com todos os dados
+
+2. get_valores_numericos(nome_variavel, caminho="data.json")
+   - Pega os valores de uma variável específica (ex: "população")
+   - Remove valores nulos (0) e não numéricos
+   - Retorna uma lista apenas com números válidos
+
+3. apresenta_dado(nome_variavel, caminho="data.json")
+   - Mostra o valor de uma variável específica para todos os países
+   - Exemplo: mostrar o PIB per capita de cada país
+   - Retorna um dicionário {país: valor}
+
+4. apresenta_pais(nome_pais, caminho="data.json")
+   - Mostra todos os dados de um país específico
+   - Exemplo: mostrar todos os dados do Brasil
+   - Retorna um dicionário com população, PIB, expectativa de vida, etc.
+
+5. calcula_media_dado(nome_variavel, caminho="data.json")
+   - Calcula a média simples de uma variável
+   - Exemplo: média da expectativa de vida de todos os países
+   - Soma todos os valores e divide pela quantidade
+
+6. calcula_variancia_dado(nome_variavel, caminho="data.json")
+   - Calcula a variância de uma variável
+   - Mede o quanto os valores estão espalhados em relação à média
+   - Quanto maior a variância, mais diferentes são os valores entre si
+
+7. calcula_media_ponderada_dado(nome_variavel, caminho="data.json", nome_peso="população")
+   - Calcula a média ponderada usando a população como peso
+   - Países com maior população têm mais influência no resultado
+   - Exemplo: expectativa de vida média mundial considerando que China e Índia têm bilhões de pessoas
+
+8. calcula_media_variavel_maior_x_pais(nome_variavel, pais_x, caminho="data.json")
+   - Calcula a média apenas dos países que têm valor maior ou igual a um país de referência
+   - Exemplo: média do PIB dos países que têm PIB maior ou igual ao do Brasil
+   - Útil para comparar grupos de países com valores semelhantes
+
+9. resumo_dados_variavel(nome_variavel)
+   - Função completa que mostra um resumo estatístico da variável
+   - Exibe: valores por país, média simples, média ponderada, variância
+   - Também mostra a média dos países com valores maiores que o país de referência
+
+Fontes:
+https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population
+https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita
+https://pt.wikipedia.org/wiki/Lista_de_pa%C3%ADses_por_esperan%C3%A7a_m%C3%A9dia_de_vida_%C3%A0_nascen%C3%A7a
+https://en.wikipedia.org/wiki/List_of_countries_by_labour_force
+https://en.wikipedia.org/wiki/Retirement_age#Retirement_age_by_country_and_region
